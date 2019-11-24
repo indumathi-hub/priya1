@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49776" started-at="2019-11-24T00:48:30Z" finished-at="2019-11-24T00:49:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49776" started-at="2019-11-24T00:48:30Z" finished-at="2019-11-24T00:49:20Z">
+      <class name="org.test.A">
+        <test-method status="PASS" signature="launch()[pri:0, instance:org.test.A@13a57a3b]" name="launch" is-config="true" duration-ms="30683" started-at="2019-11-24T06:18:30Z" finished-at="2019-11-24T06:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.test.A@13a57a3b]" name="start" is-config="true" duration-ms="128" started-at="2019-11-24T06:19:01Z" finished-at="2019-11-24T06:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="func1()[pri:-17, instance:org.test.A@13a57a3b]" name="func1" duration-ms="10137" started-at="2019-11-24T06:19:01Z" finished-at="2019-11-24T06:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func1 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.test.A@13a57a3b]" name="end" is-config="true" duration-ms="1" started-at="2019-11-24T06:19:11Z" finished-at="2019-11-24T06:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.test.A@13a57a3b]" name="start" is-config="true" duration-ms="1" started-at="2019-11-24T06:19:11Z" finished-at="2019-11-24T06:19:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="func()[pri:0, instance:org.test.A@13a57a3b]" name="func" duration-ms="85" started-at="2019-11-24T06:19:11Z" finished-at="2019-11-24T06:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.test.A@13a57a3b]" name="end" is-config="true" duration-ms="0" started-at="2019-11-24T06:19:12Z" finished-at="2019-11-24T06:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="start()[pri:0, instance:org.test.A@13a57a3b]" name="start" is-config="true" duration-ms="0" started-at="2019-11-24T06:19:12Z" finished-at="2019-11-24T06:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="func2()[pri:0, instance:org.test.A@13a57a3b]" name="func2" duration-ms="7784" started-at="2019-11-24T06:19:12Z" finished-at="2019-11-24T06:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- func2 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.test.A@13a57a3b]" name="close" is-config="true" duration-ms="680" started-at="2019-11-24T06:19:19Z" finished-at="2019-11-24T06:19:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="end()[pri:0, instance:org.test.A@13a57a3b]" name="end" is-config="true" duration-ms="0" started-at="2019-11-24T06:19:19Z" finished-at="2019-11-24T06:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- org.test.A -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
