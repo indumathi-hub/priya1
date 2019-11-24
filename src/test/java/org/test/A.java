@@ -26,6 +26,8 @@ public class A {
 	{
 		Date d=new Date();
 		System.out.println(d);
+		System.out.println(d);
+
 	}
 	@Test
 	public void func2()
@@ -57,7 +59,9 @@ public class A {
 	public void end()
 	{
 		Date d=new Date();
+		System.out.println(d);
 		System.out.println(d);	
+
 	}
 	@AfterClass
 	public void close()
