@@ -27,6 +27,8 @@ public class A {
 		Date d=new Date();
 		System.out.println(d);
 		System.out.println(d);
+		System.out.println(d);
+
 
 	}
 	@Test
